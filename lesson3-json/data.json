@@ -1,0 +1,7 @@
+{
+    "name": "CLark",
+    "address" : {
+        "street" : "Wayne Manor",
+        "city": "Gotham"
+    }
+}
